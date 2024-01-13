@@ -10,5 +10,4 @@ Stopwatch :(https://stopwatch-pranayy.netlify.app/)
 To-do List :(https://todo-list-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 3</h2>
-<br>
-Quiz App (Staic) :(https://quiz-app-pranayy-static.netlify.app/)
+Quiz App (Static) :(https://quiz-app-pranayy-static.netlify.app/)
