@@ -11,4 +11,5 @@ To-do List :(https://todo-list-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 3</h2>
 Quiz App (Dynamic) :(https://quiz-app-pranay-dynamic.netlify.app)
+<br>
 Quiz App (Staic) :(https://quiz-app-pranayy-static.netlify.app/)
