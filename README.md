@@ -14,3 +14,6 @@ Quiz App (Static) :(https://quiz-app-pranayy-static.netlify.app/)
 <br>
 <h2>🚀 Project 4</h2>
 Password Generator : (https://password-generator-pranayy.netlify.app/)
+<br>
+<h2>🚀 Project 5</h2>
+Notes App : (https://notes-app-pranay.netlify.app/)
