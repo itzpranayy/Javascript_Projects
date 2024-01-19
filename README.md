@@ -17,3 +17,6 @@ Password Generator : (https://password-generator-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 5</h2>
 Notes App : (https://notes-app-pranay.netlify.app/)
+<br>
+<h2>🚀 Project 5</h2>
+Age Calculator : (https://age-calculator-pranayy.netlify.app/)
