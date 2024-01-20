@@ -20,3 +20,6 @@ Notes App : (https://notes-app-pranay.netlify.app/)
 <br>
 <h2>🚀 Project 5</h2>
 Age Calculator : (https://age-calculator-pranayy.netlify.app/)
+<br>
+<h2>🚀 Project 6</h2>
+Quote Generator : (https://quote-generator-pranayy.netlify.app/)
