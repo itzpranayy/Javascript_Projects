@@ -23,3 +23,6 @@ Age Calculator : (https://age-calculator-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 6</h2>
 Quote Generator : (https://quote-generator-pranayy.netlify.app/)
+<br>
+<h2>🚀 Project 7</h2>
+QR Code Generator : (https://qr-code-generator-pranayy.netlify.app/)
