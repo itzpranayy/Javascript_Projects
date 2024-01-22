@@ -26,3 +26,6 @@ Quote Generator : (https://quote-generator-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 7</h2>
 QR Code Generator : (https://qr-code-generator-pranayy.netlify.app/)
+<br>
+<h2>🚀 Project 8</h2>
+Toast Notification : (https://toast-notification-pranayy.netlify.app/)
