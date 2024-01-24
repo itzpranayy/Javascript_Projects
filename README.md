@@ -29,3 +29,6 @@ QR Code Generator : (https://qr-code-generator-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 8</h2>
 Toast Notification : (https://toast-notification-pranayy.netlify.app/)
+<br>
+<h2>🚀 Project 9</h2>
+PopUp : (https://pop-up-pranayy.netlify.app/)
