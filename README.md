@@ -32,3 +32,6 @@ Toast Notification : (https://toast-notification-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 9</h2>
 PopUp : (https://pop-up-pranayy.netlify.app/)
+<br>
+<h2>🚀 Project 10</h2>
+Show/Hide Password : (https://password-toggle-pranayy.netlify.app/)
