@@ -35,3 +35,6 @@ PopUp : (https://pop-up-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 10</h2>
 Show/Hide Password : (https://password-toggle-pranayy.netlify.app/)
+<br>
+<h2>🚀 Project 11</h2>
+Dark Mode : (https://dark-mode-pranayy.netlify.app/)
