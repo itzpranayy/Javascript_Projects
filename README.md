@@ -47,3 +47,6 @@ Image Gallery : (https://image-gallery-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 14</h2>
 Email Subscription with Google Sheets: (https://email-app-pranayy.netlify.app/)
+<br>
+<h2>🚀 Project 15</h2>
+Password Strength Checker : (https://password-strength-checker-pranayy.netlify.app/)
