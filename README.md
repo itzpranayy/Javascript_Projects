@@ -50,3 +50,6 @@ Email Subscription with Google Sheets: (https://email-app-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 15</h2>
 Password Strength Checker : (https://password-strength-checker-pranayy.netlify.app/)
+<br>
+<h2>🚀 Project 16</h2>
+Text to Voice Converter : (https://text-to-speech-pranayy.netlify.app/)
