@@ -59,3 +59,6 @@ Coming Soon CountDown : (https://coming-soon-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 18</h2>
 Image Transition : (https://image-transition-pranayy.netlify.app/)
+<br>
+<h2>🚀 Project 19</h2>
+Mini Calendar : (https://mini-calendar-pranayy.netlify.app/)
