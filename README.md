@@ -62,3 +62,6 @@ Image Transition : (https://image-transition-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 19</h2>
 Mini Calendar : (https://mini-calendar-pranayy.netlify.app/)
+<br>
+<h2>🚀 Project 20</h2>
+Select Menu : (https://select-menu-pranayy.netlify.app/)
