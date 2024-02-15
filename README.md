@@ -65,3 +65,6 @@ Mini Calendar : (https://mini-calendar-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 20</h2>
 Select Menu : (https://select-menu-pranayy.netlify.app/)
+<br>
+<h2>🚀 Project 21</h2>
+Progress Bar: (https://progress-bar-pranayy.netlify.app/)
