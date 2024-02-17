@@ -68,3 +68,6 @@ Select Menu : (https://select-menu-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 21</h2>
 Progress Bar: (https://progress-bar-pranayy.netlify.app/)
+<br>
+<h2>🚀 Project 22</h2>
+CryptoWeb : (https://crypto-web-pranayy.netlify.app/)
