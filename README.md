@@ -71,3 +71,6 @@ Progress Bar: (https://progress-bar-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 22</h2>
 CryptoWeb : (https://crypto-web-pranayy.netlify.app/)
+<br>
+<h2>🚀 Project 23</h2>
+Digital Clock : (https://digital-clock-pranayy.netlify.app/)
