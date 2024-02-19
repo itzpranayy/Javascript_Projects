@@ -74,3 +74,6 @@ CryptoWeb : (https://crypto-web-pranayy.netlify.app/)
 <br>
 <h2>🚀 Project 23</h2>
 Digital Clock : (https://digital-clock-pranayy.netlify.app/)
+<br>
+<h2>🚀 Project 24</h2>
+Weather App : (https://weather-app-pranayy.netlify.app/)
